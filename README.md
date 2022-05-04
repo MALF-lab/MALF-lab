@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MALF-lab
+- 👋 Hi, I’m @MALF-lab a full time ELectrical| Software Engineer at a very big Company
 - 👀 I’m interested in ... Web-Development
 - 🌱 I’m currently learning ... HTML| CSS | JAVASCRIPT | VUE| REACT | NODE.JS
 - 💞️ I’m looking to collaborate on ... Different Projects regarding building web applications | debugging and maintaning them
